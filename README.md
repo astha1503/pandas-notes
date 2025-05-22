@@ -4,8 +4,6 @@ This repo contains my personal notes and beginner-level practice using **Pandas*
 
 ---
 
-## 🧠 Quick Revision Notes
-
 ### 🔹 1. Importing Pandas
 ```python
 import pandas as pd

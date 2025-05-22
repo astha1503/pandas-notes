@@ -75,11 +75,3 @@ Because learning Pandas is way more fun with Pikachu in the dataset ⚡
 
 ---
 
-## ✅ What's Included?
-- `pokemon.csv` — Sample dataset
-- `pandas_pokemon.ipynb` — Practice notebook
-- `README.md` — These quick notes!
-
----
-
-Made with 💖 while learning data science!

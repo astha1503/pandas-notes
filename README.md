@@ -67,7 +67,7 @@ df.to_csv("modified_pokemon.csv", index=False)
 
 ---
 
-## 💬 Why Pokémon?
+##  Why Pokémon?
 
 Because learning Pandas is way more fun with Pikachu in the dataset ⚡
 
